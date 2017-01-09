@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://LeanGreen.github.io/"/>
-  <updated>2017-01-09T02:18:33.296Z</updated>
+  <updated>2017-01-09T02:33:15.476Z</updated>
   <id>http://LeanGreen.github.io/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="http://LeanGreen.github.io/2017/01/05/%E4%BB%8Ewin7%E5%8D%87%E7%BA%A7%E5%88%B0win10%E7%9A%84%E7%90%86%E7%94%B1%EF%BC%81/"/>
     <id>http://LeanGreen.github.io/2017/01/05/从win7升级到win10的理由！/</id>
     <published>2017-01-05T09:35:49.000Z</published>
-    <updated>2017-01-09T02:18:33.296Z</updated>
+    <updated>2017-01-09T02:33:15.476Z</updated>
     
     <content type="html"><![CDATA[<p>&#x6700;&#x8FD1;&#x53D1;&#x73B0;win10&#x6709; &#x201C;Ubuntu on Windows&#x201D; &#x9879;&#x76EE;&#x4E86;&#xFF0C;&#x5B83;&#x53EF;&#x4EE5;<strong>&#x8BA9; Windows 10 &#x7CFB;&#x7EDF;&#x517C;&#x5BB9; Linux &#x5E94;&#x7528;&#x7A0B;&#x5E8F;</strong>&#xFF0C;&#x652F;&#x6301;&#x76F4;&#x63A5;&#x539F;&#x751F;&#x8FD0;&#x884C; Linux Bash &#x547D;&#x4EE4;&#x884C;&#x4EE5;&#x53CA;&#x6570;&#x4E07;&#x4E2A; Linux &#x5E94;&#x7528;&#x7A0B;&#x5E8F;&#xFF01;&#x8FD9;&#x662F;&#x5FAE;&#x8F6F;&#x4E0E; Ubuntu &#x6BCD;&#x516C;&#x53F8; Canonical &#x5408;&#x4F5C;&#x5F00;&#x53D1;&#x7684;&#x4E00;&#x4E2A;&#x8D85;&#x7EA7;&#x9690;&#x79D8;&#x7684;&#x9879;&#x76EE;&#xFF0C;&#x8FD9;&#x5BF9;&#x4E8E;&#x60F3;&#x8981;&#x5B66;&#x4E60;linux&#x64CD;&#x4F5C;&#xFF0C;&#x4F46;&#x662F;&#x82E6;&#x4E8E;&#x6CA1;&#x6709;Linux&#x7CFB;&#x7EDF;&#x7684;&#x670B;&#x53CB;&#x6765;&#x8BF4;&#x662F;&#x4E00;&#x4E2A;&#x798F;&#x97F3;&#x3002;</p>
 <p>&#x4ECE;&#x6B64;&#x5B66;&#x4E60;Linux&#x7684;&#x4E00;&#x4E9B;&#x5E38;&#x7528;&#x64CD;&#x4F5C;&#x518D;&#x4E5F;&#x4E0D;&#x9700;&#x8981;&#x5728;&#x4E24;&#x4E2A;&#x7CFB;&#x7EDF;&#x76F4;&#x63A5;&#x6362;&#x6765;&#x6362;&#x53BB;&#x4E86;&#x3002;</p>
 <p>&#x6839;&#x636E;&#x5FAE;&#x8F6F;&#x7684;&#x6280;&#x672F;&#x4EBA;&#x5458;&#x8868;&#x793A;&#xFF0C;Win10 &#x7684; Linux Bash &#x652F;&#x6301;&#x300C;&#x5E76;&#x4E0D;&#x662F;&#x4F7F;&#x7528;&#x865A;&#x62DF;&#x673A;/&#x6A21;&#x62DF;&#x5668;&#x300D;&#x5B9E;&#x73B0;&#x7684;&#xFF0C;&#x800C;&#x662F;&#x5D4C;&#x5165;&#x4E00;&#x4E2A;&#x5B8C;&#x6574;&#x7684; Ubuntu Linux &#x73AF;&#x5883;&#x3002;&#x6280;&#x672F;&#x4E0A;&#x662F;&#x5B9E;&#x65F6;&#x5C06; Linux &#x7684;&#x7CFB;&#x7EDF;&#x8C03;&#x7528;&#x8F6C;&#x6362;&#x4E3A; Windows &#x7684;&#x7CFB;&#x7EDF;&#x8C03;&#x7528;&#xFF0C;&#x4F60;&#x53EF;&#x4EE5;&#x628A;&#x5B83;&#x770B;&#x505A;&#x662F; Wine &#x662F;&#x4E00;&#x79CD;&#x53CD;&#x5411;&#x6280;&#x672F;&#x3002;&#x5FAE;&#x8F6F;&#x5C06;&#x5176;&#x79F0;&#x4E3A;&#x300C;Windows &#x4E0B;&#x7684; Linux &#x5B50;&#x7CFB;&#x7EDF;&#x300D; (Windows Subsystem for Linux)&#x3002;</p>
 <p>&#x5BF9;&#x4E8E;&#x719F;&#x6089; Linux &#x547D;&#x4EE4;&#x7684;&#x670B;&#x53CB;&#xFF0C;&#x4EE5;&#x540E;&#x53EA;&#x9700;<strong>&#x5728; Win10 &#x7684;&#x547D;&#x4EE4;&#x884C;&#x7A97;&#x53E3;&#x91CC;&#x8F93;&#x5165;bash&#x56DE;&#x8F66;&#x5373;&#x53EF;&#x8FDB;&#x5165; /bin/bash &#x7684;&#x73AF;&#x5883;</strong>&#x4E86;&#xFF0C;&#x7136;&#x540E;&#x4F60;&#x5C31;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;&#x6570;&#x4EE5;&#x4E07;&#x8BA1;&#x7684; Ubuntu &#x8F6F;&#x4EF6;&#x5E93;&#x4E2D;&#x7684;&#x7A0B;&#x5E8F;&#xFF0C;&#x5305;&#x62EC;&#x719F;&#x6089;&#x7684; apt-get&#x3001;ssh&#x3001;rsync&#x3001;grep&#x3001;git&#x3001;vim&#x3001;emacs&#x3001;tar&#x3001;php&#x3001;mysql&#x3001;python&#x3001;wget&#x3001;curl&#x3001;gcc&#x3001;diff&#x3001;patch&#x3001;sort&#x3001;awk&#x3001;sed&#x3001;gpg &#x7B49;&#x7B49;&#x7B49;&#x3002;</p>
-<p><img src="/2017/01/05/&#x4ECE;win7&#x5347;&#x7EA7;&#x5230;win10&#x7684;&#x7406;&#x7531;&#xFF01;/win10_bash.jpg" alt=""></p>
+<p><img src="/2017/01/05/&#x4ECE;win7&#x5347;&#x7EA7;&#x5230;win10&#x7684;&#x7406;&#x7531;&#xFF01;/win10_bash.jpg" alt="win10&#x7684;bash"></p>
 ]]></content>
     
     <summary type="html">
