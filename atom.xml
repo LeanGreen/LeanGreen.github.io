@@ -188,9 +188,9 @@ Display full usage: -h,--help
       <category term="Linux" scheme="http://LeanGreen.github.io/categories/Linux/"/>
     
     
-      <category term="NCBI" scheme="http://LeanGreen.github.io/tags/NCBI/"/>
-    
       <category term="Linux" scheme="http://LeanGreen.github.io/tags/Linux/"/>
+    
+      <category term="NCBI" scheme="http://LeanGreen.github.io/tags/NCBI/"/>
     
       <category term="software" scheme="http://LeanGreen.github.io/tags/software/"/>
     
